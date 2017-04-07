@@ -1,2 +1,2 @@
 # atom-light-syntax-md
-add markdown highlight to atom-light-syntax
+this theme is based on default atom light. Just adding markdown highlight support for it.
